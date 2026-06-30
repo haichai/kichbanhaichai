@@ -17,7 +17,7 @@ import {
 // --- FIREBASE CONFIG ---
 // Firebase apiKey trong config client KHÔNG phải secret. Gemini API key mới là secret, nên app chỉ lưu Gemini key trong localStorage của máy người dùng.
 const firebaseConfig = {
-  apiKey: "AIzaSyCYmWWdxzs6U0Q-N9Eqa-fM6fEP9DYiGwY",
+  apiKey: "AIzaSyCYMWWDxzs6U0Q-N9Eqa-fM6fEP9DYiGwY",
   authDomain: "haichai-script-studio.firebaseapp.com",
   databaseURL: "https://haichai-script-studio-default-rtdb.asia-southeast1.firebasedatabase.app",
   projectId: "haichai-script-studio",
